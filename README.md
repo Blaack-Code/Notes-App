@@ -1,2 +1,2 @@
-# desafio-1-notes-app
+# Desafio 1 - Notes App
 Aplicação de anotações pessoais
