@@ -72,8 +72,47 @@
  
  ### Requisitos
  
- <Ol>
- <li>Tela de login</li>
-   1.<li>Inserir email e salvá-lo no localStorage</li>
-   2.<li>Botão para redirecionar para página príncipal</li>
+ <ol>
+ ### Login
  
+ <li>Desenvolva uma tela de login</li>
+ <li>Crie um input para o usuário digitar o email</li>
+ <li>Crie um input para o usuário digitar o nome</li>
+ <li>Crie um botão "Entrar"<li>
+ <li>Clicando no botão o usuário deve ser redirecionado para a tela principal e seu email e o nome devem ser salvos no localStorage</li>
+ <li>O botão deve estar desativado se algum input estiver vazio</li>
+ 
+ </ol>
+ 
+ <ol>
+ ### Tela principal
+ 
+ <li>Desenvolva uma tela principal</li>
+ <li>Crie um header com as informações do usuário e o nome da aplicação</li>
+ <li>Crie uma mensagem de boas-vindas caso o usuário não tenha nenhuma anotação</li>
+ <li>Crie uma área onde o usuário poderá adicionar uma nova anotação</li>
+ <li>Na área citada acima deverá ser possível: Criar uma anotação de texto, criar uma lista de tarefas, adicionar um link útil e/ou criar listas ordenadas!</li>
+ <li>Crie uma área prícipal onde aparecerá todas as anotações criadas pelo usuário</li>
+ <li>Crie um footer</li>
+ <li>Adicione links da comunidade Black Code no footer (Discord e Instagram)</li>
+ <li>Adicione o nome da plataforma no footer</li>
+ <li>Adicione links da equipe (linkedin/github dos dev's) no footer</li>
+ 
+ </ol>
+ 
+  <ol>
+ ### Tela perfil
+ 
+ <li>Desenvolva uma tela de perfil</li>
+ <li>Mostre as informações do usuário</li>
+ <li>Crie inputs para alterar as informações</li>
+ <li>Crie inputs para adicionar novas informações</li>
+ 
+ </ol>
+ 
+ <ol>
+ ### Persinalização! (OPCIONAL)
+ 
+ <li>Possibilite o usuário personalizar a aplicação (com emojis, imagens de capa, etc..)
+ 
+ </ol>
