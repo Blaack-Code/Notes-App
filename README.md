@@ -7,7 +7,8 @@
  
   - [Desenvolvimento](#desenvolvimento)
   - [Instruções para enviar o desafio](#instruções-para-enviar-o-desafio)
-   - [Antes de começar a desenvolver](#antes-de-começar-a-desenvolver)
+  - [Antes de começar a desenvolver](#antes-de-começar-a-desenvolver)
+  - [Requisitos](#requisitos)
  
  # O que deverá ser desenvolvido?
  
@@ -78,7 +79,7 @@
  <li>Desenvolva uma tela de login</li>
  <li>Crie um input para o usuário digitar o email</li>
  <li>Crie um input para o usuário digitar o nome</li>
- <li>Crie um botão "Entrar"<li>
+ <li>Crie um botão "Entrar"</li>
  <li>Clicando no botão o usuário deve ser redirecionado para a tela principal e seu email e o nome devem ser salvos no localStorage</li>
  <li>O botão deve estar desativado se algum input estiver vazio</li>
  
