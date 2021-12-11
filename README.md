@@ -56,7 +56,7 @@
   * Usando o exemplo anterior: `git push -u origin main-group-XX-cria-campo-de-input`
 
 5. Crie um novo `Pull Request` _(PR)_
-  * Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/sd-015-b-project-recipes-app/pulls)
+  * Vá até a página de _Pull Requests_ do repositório
   * Clique no botão verde _"New pull request"_
   * Clique na caixa de seleção _"Compare"_ e escolha a branch do grupo, `main-group-XX`, e a sua branch **com atenção**
   * Coloque um título para a sua _Pull Request_
