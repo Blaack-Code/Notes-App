@@ -93,6 +93,8 @@
  <li>Crie uma mensagem de boas-vindas caso o usuário não tenha nenhuma anotação</li>
  <li>Crie uma área onde o usuário poderá adicionar uma nova anotação</li>
  <li>Na área citada acima deverá ser possível: Criar uma anotação de texto, criar uma lista de tarefas, adicionar um link útil e/ou criar listas ordenadas!</li>
+ <li>Deverá ser possível excluir uma anotação</li>
+ <li>Deverá ser possível esconder e mostrar a área citada acima</li>
  <li>Crie uma área prícipal onde aparecerá todas as anotações criadas pelo usuário</li>
  <li>Crie um footer</li>
  <li>Adicione links da comunidade Black Code no footer (Discord e Instagram)</li>
@@ -117,3 +119,7 @@
  <li>Possibilite o usuário personalizar a aplicação (com emojis, imagens de capa, etc..)
  
  </ol>
+ 
+ # Protótipo do Projeto
+ 
+ https://www.figma.com/file/pZs3nbkdpRlUj4x9FEX2Vt/Untitled?node-id=0%3A1
