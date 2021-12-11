@@ -3,6 +3,10 @@
  Neste repositório você vai encontrar tudo que precisa para desenvolver o projeto! <br>
  desde informações até tutoriais para a melhor execução, caso tenha alguma dúvida mande no Discord da comunidade!
  
+ # Sumário
+ 
+  - [Desenvolvimento](#desenvolvimento)
+ 
  # O que deverá ser desenvolvido?
  
  Neste projeto você vai desenvolver uma aplicação de anotações pessoais, ao utilizar essa aplicação um usuário deverá ser capaz de:
@@ -49,7 +53,7 @@
         * `git status` (devem aparecer listadas as novas alterações em verde)
   * Faça seus `commit`
       * Exemplo:
-        * `git commit -m 'cria componente de input`
+        * `git commit -m 'cria componente de input'`
         * `git status` (deve aparecer uma mensagem tipo _nothing to commit_ )
 
 4. Adicione a sua branch com o novo `commit` ao repositório remoto
