@@ -72,3 +72,8 @@
  
  ### Requisitos
  
+ <Ol>
+ <li>Tela de login</li>
+   1.<li>Inserir email e salvá-lo no localStorage</li>
+   2.<li>Botão para redirecionar para página príncipal</li>
+ 
