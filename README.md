@@ -6,10 +6,11 @@
  # O que deverá ser desenvolvido?
  
  Neste projeto você vai desenvolver uma aplicação de anotações pessoais, ao utilizar essa aplicação um usuário deverá ser capaz de:
- 
- 1 - Criar uma lista de tarefas
- 2 - Criar parágrafos com conteúdo
- 3 - Adicionar links a uma área de 'links importantes'
+ <ul>
+ <li>1 - Criar uma lista de tarefas</li>
+ <li>2 - Criar parágrafos com conteúdo</li>
+ <li>3 - Adicionar links a uma área de 'links importantes'</li>
+ </ul>
  
  Para entregar o projeto a equipe deverá criar um Pull Request neste repositório. <br>
  A apresentação para a comunidade acontecerá no próximo sábado (18/12/2021) no nosso discord!
