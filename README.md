@@ -72,8 +72,8 @@
  
  ### Requisitos
  
- <ol>
  ### Login
+ <ol>
  
  <li>Desenvolva uma tela de login</li>
  <li>Crie um input para o usuário digitar o email</li>
@@ -84,8 +84,8 @@
  
  </ol>
  
- <ol>
  ### Tela principal
+ <ol>
  
  <li>Desenvolva uma tela principal</li>
  <li>Crie um header com as informações do usuário e o nome da aplicação</li>
@@ -100,8 +100,8 @@
  
  </ol>
  
+  ### Tela perfil
   <ol>
- ### Tela perfil
  
  <li>Desenvolva uma tela de perfil</li>
  <li>Mostre as informações do usuário</li>
@@ -110,8 +110,8 @@
  
  </ol>
  
- <ol>
  ### Persinalização! (OPCIONAL)
+ <ol>
  
  <li>Possibilite o usuário personalizar a aplicação (com emojis, imagens de capa, etc..)
  
