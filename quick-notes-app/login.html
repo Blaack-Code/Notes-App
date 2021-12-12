@@ -7,16 +7,40 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>QuickNotes📌Login</title>
     <!-- meta tags customizadas -->
-    <link rel="stylesheet" href="assets/login.css">
+    <link rel="stylesheet" href="assets/css/login.css">
+    <link rel="stylesheet" href="assets/css/reset.css">
 </head>
 
-<body>
+<body class="dark-theme || light-theme">
+    <button class="btn-toggle">Ativar modo escuro 🌙</button>
     <main>
-        <div class="data-area">
-            <input type="email" placeholder="Digite seu email">
-            <input type="password" name="" id="" placeholder="Senha">
-        </div>
+        <h2 id="title">QuickNotes📌Login</h2>
+
+        <form action="/action_page.php" method="post">
+            <div class="imgcontainer">
+                <img src="assets/images/black-code-logo.png" alt="Avatar" class="avatar">
+            </div>
+
+            <div class="container">
+                <label for="uname"><b>Email</b></label>
+                <input type="email" placeholder="Digite seu email" name="uname" required>
+
+                <label for="psw"><b>Senha</b></label>
+                <input type="password" placeholder="Digite sua senha" name="psw" required>
+
+                <button type="submit">Login</button>
+                <label>
+                    <input type="checkbox" checked="checked" name="remember"> Lembrar de mim
+                </label>
+            </div>
+
+            <div class="container" style="background-color:#f1f1f1">
+                <button type="button" class="cancelbtn">Cancel</button>
+                <span class="psw">Esqueceu a <a href="#">senha?</a></span>
+            </div>
+        </form>
     </main>
+    <script src="assets/scripts/darkmode.js"></script>
 </body>
 
 </html>
