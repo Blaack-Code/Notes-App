@@ -3,7 +3,50 @@ body {
     min-width: 250px;
     font-family: 'Lexend Deca', sans-serif;
   }
+  [data-tab-content] {
+    display: none;
+  }
   
+  .active[data-tab-content] {
+    display: block;
+  }
+  
+  //tabs menu style start
+  
+  .tabs {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-family: 'Lexend Deca', sans-serif;
+    background-color: #1368d6;
+    color: #fff;
+  }
+  
+  .tab {
+    cursor: pointer;
+    padding: 10px;
+    
+  }
+  
+  .tab.active {
+    background-color: #fff;
+    color: #292929;
+    
+  }
+  .tab.active:hover{
+    color: #fff;
+  }
+  
+  .tab:hover {
+    background-color: #1659b1;
+  }
+  
+  .tab-content {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
   /* Include the padding and border in an element's total width and height */
   
   
@@ -121,10 +164,15 @@ body {
     color:#292929;
   }
 
-  //tab css custom 
+
 
   //notepad
-
+#notepad h2{
+  text-align: center;
+  font-weight: 500;
+  padding: 0;
+  margin: 0;
+}
 
 .sidenav {
     height: 100%;
