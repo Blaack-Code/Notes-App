@@ -1,3 +1,7 @@
+
+
+//tabs in todo.html
+
 const tabs = document.querySelectorAll('[data-tab-target]')
 const tabContents = document.querySelectorAll('[data-tab-content]')
 
@@ -14,6 +18,7 @@ tabs.forEach(tab => {
         target.classList.add('active')
     })
 })
+
 
 
 
@@ -73,7 +78,7 @@ function newElement() {
         }
     }
 }
-//tabs
+
 
 
 //NOTEPAD SCRIPT
@@ -130,3 +135,15 @@ function copyToClipboard(element) {
     document.execCommand("copy");
     $temp.remove();
 }
+
+
+//press "adicionar item" with enter
+jQuery(document.body).on('keypress', function (e) {
+    if (e.keyCode === 13) {
+        e.preventDefault();
+        $(".addBtn").trigger("click");
+    }
+});
+
+
+
